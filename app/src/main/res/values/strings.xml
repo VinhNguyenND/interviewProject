@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App Note</string>
+    <string name="search">Search</string>
+    <string name="thong_bao">thong bao</string>
+    <string name="sort_increase">sort increase</string>
+    <string name="all_folder">All Folder</string>
+    <string name="number">number</string>
+    <string name="name_folder">name folder</string>
+    <string name="number_note">Number note</string>
+    <string name="day_la_summary">day la SUMMARY</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="decrease">Decrease</string>
+    <string name="justAnotherHandRegular">JustAnotherHandRegular</string>
+    <string name="RobotoCondensedBoldItalic">RobotoCondensedBoldItalic</string>
+    <string name="RobotoCondensedItalic">RobotoCondensedItalic</string>
+</resources>
